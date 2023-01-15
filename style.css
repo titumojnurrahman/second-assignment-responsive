@@ -1,6 +1,4 @@
-/*-------------------
-    Google Font
--------------------*/
+/* Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@500;700&family=Work+Sans:wght@700&display=swap');
 *{
     margin: 0px;
@@ -9,9 +7,8 @@
 Body{
     font-family: 'Work Sans', sans-serif;
 }
-/*-------------------
-Header Section Start
--------------------*/
+
+/* Header area  */
 header{
     width: 100%;
     height: 1280px;
@@ -83,12 +80,9 @@ div{
     height: 640px;
     margin: auto;
 }
-/*-------------------
- Header Section End
--------------------*/
-/*------------------
-  Section One Start
--------------------*/
+/* Header area end  */
+
+/* Body feild area */
 .container{
     display: flex;
 }
